@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bbc-mc&theme=vue&show_icons=true&count_private=true" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbc-mc&theme=vue&layout=donut" /></a>|
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bbc-mc&theme=gotham&show_icons=true&count_private=true" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbc-mc&theme=gotham&layout=compact" /></a>|
 | ------------- | ------------- |
