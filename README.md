@@ -1,14 +1,15 @@
 ## Hi, I'm bbc_mc
+Building AI tools for fun and learning | Open source enthusiast  
+Exploring creative applications of LLMs and image generation models.  
+Started with Minecraft mods, now diving deep into AI/ML.
 
-holiday programmer, curiosity driven
-
-Former Minecraft modder (Java).  
-I build small tools and extensions that remove friction from creative image workflows, mainly around Stable Diffusion WebUI.
+### Currently Playing With
+Python • PyTorch • LLMs • Node.js • Stable Diffusion • Prompt Engineering
+AI Agents • Development workflows
 
 ---
 
 ### Social
-
 <p align="left">
   <a href="https://x.com/bbc_dev">
     <img src="https://img.shields.io/twitter/follow/bbc_dev" />
@@ -16,35 +17,44 @@ I build small tools and extensions that remove friction from creative image work
   <a href="https://github.com/bbc-mc">
     <img src="https://img.shields.io/github/followers/bbc-mc?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://note.com/bbcmc">
+    <img src="https://img.shields.io/badge/note-bbcmc-54C7C0?style=flat" />
+  </a>
 </p>
 
 ---
 
-### Featured projects
-
+### Things I've Built
+#### AI & Creative Tools
 - [sdweb-merge-block-weighted-gui](https://github.com/bbc-mc/sdweb-merge-block-weighted-gui)  
-  Merge models with separate rates for each of the 25 U-Net blocks. Stable Diffusion WebUI extension.
-
+  Fine-grained model merging - control all 25 U-Net blocks independently.
 - [sdweb-merge-board](https://github.com/bbc-mc/sdweb-merge-board)  
-  Multi-step model merge automation for experiment-heavy workflows in Stable Diffusion WebUI.
-
+  Multi-step merge automation for when you need to experiment... a lot. Chain complex workflows effortlessly.
 - [sdweb-eagle-pnginfo](https://github.com/bbc-mc/sdweb-eagle-pnginfo)  
-  Send generated images with PNGinfo directly to Eagle from Stable Diffusion WebUI.
+  One-click image organization. Keep your metadata, save your sanity.
+
+#### Legacy Fun
+- Minecraft Mods - Some features made it to vanilla! 🎮
 
 ---
 
-### How I like to build
+### How I Code
+- Start with "what's annoying me today?" then fix it
+- Keep it simple, make it fun to use  
+- Learning by building, building by breaking things
 
-- Start from the user flow, then automate the tedious steps.
-- Prefer small, sharp tools over big, heavy ones.
-- “Fun to use” matters as much as “works as intended”.
+Currently fascinated by: LLMs, fine-tuning, serverless AI deployments, creative workflow automation
 
-If you have an idea around SD WebUI, model merging, or creative tooling, I'm happy to hear about it.
+---
+
+### Happy things
+- 💬 Always happy to discuss workflows, model making strategies, or AI experiments
+- 📝 Technical notes and experiments: [note.com/bbcmc](https://note.com/bbcmc)
+- I love seeing how people use and extend these tools!
 
 ---
 
 ### Stats
-
 <p align="left">
   <img alt="GitHub Stats" height="150px"
        src="https://github-readme-stats.vercel.app/api?username=bbc-mc&theme=gotham&show_icons=true&count_private=true" />
