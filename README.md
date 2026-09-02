@@ -62,4 +62,5 @@ Currently fascinated by: LLMs, fine-tuning, serverless AI deployments, creative 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbc-mc&theme=gotham&show_icons=true&count_private=true&layout=compact" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbc-mc&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=bbc-mc&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
