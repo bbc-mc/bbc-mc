@@ -35,7 +35,11 @@ AI Agents • Development workflows
 
 #### Legacy Fun
 - Minecraft Mods - Some features made it to vanilla! 🎮
-
+  - **Pair Boat** - Extend boat as 2 seater.
+  - **Chat Popup** - Show user chat above speaker character, like other MMO.
+  - **LockON** - Add LockON feature on bow, almost 100 % accuracy!!
+  - **EasyAIInterface** - Add workflow like AI Build tool in game, you can control mob behavier with item-like node and connection.
+  - and other small mods ...
 ---
 
 ### How I Code
