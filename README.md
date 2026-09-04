@@ -61,9 +61,9 @@ Currently fascinated by: LLMs, fine-tuning, serverless AI deployments, creative 
 ### Stats
 <p align="left">
   <img alt="GitHub Stats" height="150px"
-       src="https://github-readme-stats.vercel.app/api?username=bbc-mc&theme=gotham&show_icons=true&count_private=true" />
+       src="https://github-stats-extended.vercel.app/api?username=bbc-mc&theme=gotham&show_icons=true&count_private=true" />
   <img alt="Top Langs" height="150px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbc-mc&theme=gotham&show_icons=true&count_private=true&layout=compact" />
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=bbc-mc&theme=gotham&show_icons=true&count_private=true&layout=compact" />
 </p>
 
 [![trophy](https://github-profile-trophy-unserori.vercel.app/?username=bbc-mc&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
